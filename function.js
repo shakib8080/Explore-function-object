@@ -41,4 +41,21 @@ starthefan();
 
 
 
+function givemegits (taka){
+    console.log('amr gits lagbe ',taka );
+    var gitsprice = 10 ;
+    
+    var mygits = money /gitsprice ;
+    return mygits ;
+
+
+}
+var money = 200 ;
+mygitsall = givemegits (money)
+console.log(mygitsall);
+
+
+
+
+
 

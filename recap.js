@@ -1,4 +1,4 @@
-// variable
+1// variable
 var favoritebooks = 'arabic';
 
 // Array
