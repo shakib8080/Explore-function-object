@@ -19,13 +19,26 @@ console.log(computure);
 
 
 
-// var kaj = 'prosesor';
-// computure[kaj]=6366;
-// computure.Storage=3000;
-// computure['name']='shakib';
+var kaj = 'prosesor';
+computure[kaj]=6366;
+computure.Storage=3000;
+computure['name']='shakib';
 
-// var computurename =computure.name;
-// var computureprice = computure.price;
-// console.log(computureprice);
-// console.log(computurename);
-// console.log(computure);
+var computurename =computure.name;
+var computureprice = computure.price;
+console.log(computureprice);
+console.log(computurename);
+console.log(computure);
+
+var computure ={
+    rem:"3gb",
+    room:'29gb',
+    name:"dell",
+    prosesor:'fjfj',
+}
+console.log(computure);
+computure.name = 'rakib';
+console.log(computure);
+computure ['name']='ashik';
+console.log(computure);
+

@@ -42,3 +42,17 @@ for(var i = 0; i < frinedsage.length; i++){
    console.log(allfrinedsage);
 }
 
+var number = 0 ;
+
+while(number <20 ){
+   console.log('jdieiri;');
+   number = number + 2 ;
+   console.log(number);
+}
+
+for ( var i = 0;  i < 20; i++){
+   console.log('hgfhfsadwyutegd');
+   console.log(i);
+
+}
+

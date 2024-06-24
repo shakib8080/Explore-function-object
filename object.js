@@ -6,3 +6,4 @@ var student = {
     age:85,
     rool:8,
 }
+
